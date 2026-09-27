@@ -1,0 +1,6 @@
+{
+  "name": "AETHEON - Das Evolutionäre Gadget der Zukunft",
+  "description": "Synthese aller Erfindungen der Menschheit in ein evolutionäres Multifunktions-Gadget: Von Feuerbeherrschung und Rad über Transistoren bis zur Quanten-Nanomaterie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
